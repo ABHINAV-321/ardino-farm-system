@@ -1,5 +1,5 @@
 # ardino-farm-system
-##code 
+## code 
 ***
 ```
 https://create.arduino.cc/projecthub/ejaquino/automatic-clothesline-retrieval-system-using-arduino-uno-bfedd4
@@ -11,7 +11,7 @@ https://create.arduino.cc/projecthub/ejaquino/automatic-clothesline-retrieval-sy
  https://www.instructables.com/How-to-use-the-L293D-Motor-Driver-Arduino-Tutorial/
 ```
 ***
-##dc moter driver tutorial
+## dc moter driver tutorial
 ***
 ```
  https://lastminuteengineers.com/l293d-dc-motor-arduino-tutorial/
